@@ -1,6 +1,7 @@
 {
 	"name": "pedro-lucas/imagetool",
 	"description": "Different tools/functions to perform various tasks with images",
+	"type" : "cakephp-plugin",
 	"keywords": ["cakephp", "gd", "image", "images", "effects"],
 	"license": "MIT",
 	"authors": [
