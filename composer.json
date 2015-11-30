@@ -1,5 +1,5 @@
 {
-	"name": "raitisg/imagetool",
+	"name": "pedro-lucas/imagetool",
 	"description": "Different tools/functions to perform various tasks with images",
 	"keywords": ["cakephp", "gd", "image", "images", "effects"],
 	"license": "MIT",
