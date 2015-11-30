@@ -10,7 +10,10 @@
 		}
 	],
 	"require": {
+		"composer/installers" : "*",
 		"php": ">=5.4.0"
 	},
-	"require": {}
+	"extra" : {
+	    "installer-name" : "ImageTool"
+	  }
 }
